@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fresh-juices-react-prj/static/css/main.d2dbac70.css",
-    "main.js": "/fresh-juices-react-prj/static/js/main.b36506b0.js",
+    "main.js": "/fresh-juices-react-prj/static/js/main.6c61ded8.js",
     "static/media/p3.jpg": "/fresh-juices-react-prj/static/media/p3.70140671ea08aceeac4c.jpg",
     "static/media/p1.jpg": "/fresh-juices-react-prj/static/media/p1.db3f32084a54cb3ecccc.jpg",
     "static/media/p5.jpg": "/fresh-juices-react-prj/static/media/p5.bdd5cdc7ecd482868365.jpg",
@@ -22,10 +22,10 @@
     "static/media/bg1.jpg": "/fresh-juices-react-prj/static/media/bg1.e815bb439ff0f7276457.jpg",
     "index.html": "/fresh-juices-react-prj/index.html",
     "main.d2dbac70.css.map": "/fresh-juices-react-prj/static/css/main.d2dbac70.css.map",
-    "main.b36506b0.js.map": "/fresh-juices-react-prj/static/js/main.b36506b0.js.map"
+    "main.6c61ded8.js.map": "/fresh-juices-react-prj/static/js/main.6c61ded8.js.map"
   },
   "entrypoints": [
     "static/css/main.d2dbac70.css",
-    "static/js/main.b36506b0.js"
+    "static/js/main.6c61ded8.js"
   ]
 }
