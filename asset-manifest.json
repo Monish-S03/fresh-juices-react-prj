@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/fresh-juices-react-prj/static/css/main.d2dbac70.css",
+    "main.js": "/fresh-juices-react-prj/static/js/main.b36506b0.js",
+    "static/media/p3.jpg": "/fresh-juices-react-prj/static/media/p3.70140671ea08aceeac4c.jpg",
+    "static/media/p1.jpg": "/fresh-juices-react-prj/static/media/p1.db3f32084a54cb3ecccc.jpg",
+    "static/media/p5.jpg": "/fresh-juices-react-prj/static/media/p5.bdd5cdc7ecd482868365.jpg",
+    "static/media/p6.jpg": "/fresh-juices-react-prj/static/media/p6.3fd122035870531428cd.jpg",
+    "static/media/p12.jpg": "/fresh-juices-react-prj/static/media/p12.900e78385d217be96481.jpg",
+    "static/media/p2.jpg": "/fresh-juices-react-prj/static/media/p2.22eb176c00174fb5e96e.jpg",
+    "static/media/p4.jpg": "/fresh-juices-react-prj/static/media/p4.7f8576b19490f8fb64d3.jpg",
+    "static/media/p8.jpg": "/fresh-juices-react-prj/static/media/p8.f95e428cf4d69cf9efd4.jpg",
+    "static/media/bootstrap-icons.woff?": "/fresh-juices-react-prj/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/fresh-juices-react-prj/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/p11.jpg": "/fresh-juices-react-prj/static/media/p11.5234c59b291286f73bdd.jpg",
+    "static/media/p10.jpg": "/fresh-juices-react-prj/static/media/p10.607ef74893da81cae208.jpg",
+    "static/media/p9.jpg": "/fresh-juices-react-prj/static/media/p9.b284bb6064a279d43527.jpg",
+    "static/media/c1.jpg": "/fresh-juices-react-prj/static/media/c1.1f9bfd5ac771370478df.jpg",
+    "static/media/c2.jpg": "/fresh-juices-react-prj/static/media/c2.d15a7aaad75009ffb2e1.jpg",
+    "static/media/p7.avif": "/fresh-juices-react-prj/static/media/p7.6cc354b21da5c6d21d2f.avif",
+    "static/media/c3.jpg": "/fresh-juices-react-prj/static/media/c3.bc1c9432a2d713bc665a.jpg",
+    "static/media/bg1.jpg": "/fresh-juices-react-prj/static/media/bg1.e815bb439ff0f7276457.jpg",
+    "index.html": "/fresh-juices-react-prj/index.html",
+    "main.d2dbac70.css.map": "/fresh-juices-react-prj/static/css/main.d2dbac70.css.map",
+    "main.b36506b0.js.map": "/fresh-juices-react-prj/static/js/main.b36506b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2dbac70.css",
+    "static/js/main.b36506b0.js"
+  ]
+}
